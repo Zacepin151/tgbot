@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher, types, Router, filters, F
 import asyncio
 
 # Токен вашего бота
-API_TOKEN = "7820806714:AAEOT3fv8ABLOd1LFgXWo---nspfGZr7mIE"
+API_TOKEN = "введите ваш токен"
 
 # Инициализация бота и диспетчера
 bot = Bot(token=API_TOKEN)
